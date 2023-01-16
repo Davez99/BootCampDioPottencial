@@ -1,2 +1,4 @@
 # BootCampDioPottencial
-Exercícios do bootcamp
+
+Bootcamp com finalidade na tecnologia .NET 
+Com vários excercícios escritos com C#
