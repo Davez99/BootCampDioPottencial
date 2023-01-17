@@ -1,0 +1,15 @@
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\bin\Debug\net7.0\CodigoBasicoPottencial2.exe
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\bin\Debug\net7.0\CodigoBasicoPottencial2.deps.json
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\bin\Debug\net7.0\CodigoBasicoPottencial2.runtimeconfig.json
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\bin\Debug\net7.0\CodigoBasicoPottencial2.dll
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\bin\Debug\net7.0\CodigoBasicoPottencial2.pdb
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\CodigoBasicoPottencial2.csproj.AssemblyReference.cache
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\CodigoBasicoPottencial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\CodigoBasicoPottencial2.AssemblyInfoInputs.cache
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\CodigoBasicoPottencial2.AssemblyInfo.cs
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\CodigoBasicoPottencial2.csproj.CoreCompileInputs.cache
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\CodigoBasicoPottencial2.dll
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\refint\CodigoBasicoPottencial2.dll
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\CodigoBasicoPottencial2.pdb
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\CodigoBasicoPottencial2.genruntimeconfig.cache
+C:\Workspace\BootCampDioPottencial\CodigoBasicoPottencial2\obj\Debug\net7.0\ref\CodigoBasicoPottencial2.dll
