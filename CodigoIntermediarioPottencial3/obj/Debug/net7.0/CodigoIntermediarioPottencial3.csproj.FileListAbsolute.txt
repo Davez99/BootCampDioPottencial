@@ -1,0 +1,15 @@
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\bin\Debug\net7.0\CodigoIntermediarioPottencial3.exe
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\bin\Debug\net7.0\CodigoIntermediarioPottencial3.deps.json
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\bin\Debug\net7.0\CodigoIntermediarioPottencial3.runtimeconfig.json
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\bin\Debug\net7.0\CodigoIntermediarioPottencial3.dll
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\bin\Debug\net7.0\CodigoIntermediarioPottencial3.pdb
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\CodigoIntermediarioPottencial3.csproj.AssemblyReference.cache
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\CodigoIntermediarioPottencial3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\CodigoIntermediarioPottencial3.AssemblyInfoInputs.cache
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\CodigoIntermediarioPottencial3.AssemblyInfo.cs
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\CodigoIntermediarioPottencial3.csproj.CoreCompileInputs.cache
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\CodigoIntermediarioPottencial3.dll
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\refint\CodigoIntermediarioPottencial3.dll
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\CodigoIntermediarioPottencial3.pdb
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\CodigoIntermediarioPottencial3.genruntimeconfig.cache
+C:\Workspace\BootCampDioPottencial\CodigoIntermediarioPottencial3\obj\Debug\net7.0\ref\CodigoIntermediarioPottencial3.dll
